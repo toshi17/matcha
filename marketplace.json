@@ -23,15 +23,15 @@
     "redis_commands": ["JSON.SET", "JSON.NUMINCRBY", "JSON.GET", "ZADD", "SUBSCRIBE", "UNSUBSCRIBE", "ZSCAN", "ZSCORE", "ZRANGEBYSCORE", "ZREM", "PUBLISH"],
     "redis_features": [],
     "redis_modules": [
-        "RediJSON"
+        "RedisJSON"
     ],
     "app_image_urls": [
         "https://raw.githubusercontent.com/redis-developer/matcha/raw/main/diagram.png"
     ],
-    "youtube_url": "https://youtu.be/D7EeBJId85M",
+    "youtube_url": "https://www.youtube.com/watch?v=D7EeBJId85M",
     "special_tags": [
         "Hackathon"
     ],
-    "verticals": [],
+    "verticals": ["Technology"],
     "markdown": "https://raw.githubusercontent.com/redis-developer/matcha/main/README.md"
 }
