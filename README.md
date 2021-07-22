@@ -1,9 +1,9 @@
-![Logo](static/logo_small.png)
+![Logo](https://raw.githubusercontent.com/redis-developer/matcha/main/static/logo_small.png)
 # Matcha
 Matchmaking system for 1v1 competitive games.
 
 ## How it works
-![Diagram](diagram.png)
+![Diagram](https://raw.githubusercontent.com/redis-developer/matcha/main/diagram.png)
 
 Matcha works using an API for user management and entering the queue and a worker for finding matches between players.
 
