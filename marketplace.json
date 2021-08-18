@@ -33,6 +33,6 @@
     "special_tags": [
         "Hackathon"
     ],
-    "verticals": ["Technology"],
+    "verticals": ["Others"],
     "markdown": "https://raw.githubusercontent.com/redis-developer/matcha/main/README.md"
 }
