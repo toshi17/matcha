@@ -46,6 +46,4 @@ The worker runs every 10 seconds and uses the following commands:
 
 Using the `MATCHA_ENVIRONMENT` you can enable/disable the testing page. When the variable is set to `debug`, the test page will be available at `/index.html`
 
-## Acknowledgements
 
-I would like to thank my cat and the team behind Starlette.
