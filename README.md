@@ -1,6 +1,6 @@
 ![Logo](https://raw.githubusercontent.com/redis-developer/matcha/main/static/logo_small.png)
 # Matcha
-Matchmaking system for 1v1 competitive games.
+Building a Matchmaking system for 1v1 competitive games using Redis
 
 ## How it works
 ![Diagram](https://raw.githubusercontent.com/redis-developer/matcha/main/diagram.png)
